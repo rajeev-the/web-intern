@@ -1,0 +1,23 @@
+.heading1{
+
+    @media (max-width: 600px) 
+         {
+          font-size: smaller;
+          gap: 5;
+        }
+      
+}
+.searching {
+    @media (max-width: 600px) 
+    {
+     margin: 5px;
+   }
+
+}
+.nav1{
+    @media (max-width: 600px) 
+    {
+    
+     gap: 0px;
+   }
+}
